@@ -1,7 +1,8 @@
 body {
-  background-color: black;
+  background-color: #31087B;
+  margin: 0;
 }
-
+/*it is best practice to put the properties in alphabetical order*/
 hr {
   border-style: dotted none none;
   border-color: #FF5403;
@@ -10,8 +11,11 @@ hr {
   width: 35%;
 }
 
+
+
 img {
   height: 200px;
+  border-radius: 60% 20% / 10% 40%;;
 }
 
 h1 {
@@ -28,4 +32,36 @@ p {
 
 li {
   color: white;
+}
+.bottom-container {
+  background-color: #EB1D36;
+  border: solid 10px;
+  height: 200px;
+  margin-left: 500px;
+  width: 200px;
+}
+
+.main-container {
+  background-color: #000000;
+}
+
+.middle-container {
+  background-color: #5800FF;
+  border: solid 20px;
+  height: 200px;
+  margin-left: 260px;
+  width: 200px;
+}
+
+.top-container {
+  background-color: #00D7FF;
+  border: solid 10px;
+  height: 200px;
+  padding: 20px;
+  width: 200px;
+
+}
+
+.profileimg {
+  border-radius: 100%;
 }
