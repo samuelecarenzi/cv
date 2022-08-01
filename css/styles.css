@@ -1,6 +1,7 @@
 body {
-  background-color: #31087B;
+  background-color: #000000;
   margin: 0;
+  text-align: center;
 }
 /*it is best practice to put the properties in alphabetical order*/
 hr {
@@ -8,14 +9,14 @@ hr {
   border-color: #FF5403;
   border-width: 15px;
   height: 0;
-  width: 35%;
+  width: 4%;
 }
 
 
 
 img {
   height: 200px;
-  border-radius: 60% 20% / 10% 40%;;
+  border-radius: 10%;
 }
 
 h1 {
@@ -46,7 +47,7 @@ li {
 }
 
 .middle-container {
-  background-color: #5800FF;
+  background-color: #000000;
   border: solid 20px;
   height: 200px;
   margin-left: 260px;
