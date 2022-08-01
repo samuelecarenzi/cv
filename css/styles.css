@@ -34,6 +34,11 @@ p {
 li {
   color: white;
 }
+
+label {
+  color: white;
+}
+
 .bottom-container {
   background-color: #EB1D36;
   border: solid 10px;
