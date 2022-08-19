@@ -16,7 +16,7 @@ body {
   text-align: center;
   font-size:20px;
 }
-/*reminder:the best practice is to put the properties in alphabetical order*/
+/*reminder: put the properties in alphabetical order*/
 hr {
   border-style: dotted none none;
   border-color: #FFE400;
